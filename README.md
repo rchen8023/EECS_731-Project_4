@@ -4,7 +4,7 @@ In this project, I implemented few regression model (Linear Regression, Random F
 # Project Instruction
 NFL, MLB, NBA and Soccer scores
 1. Set up a data science project structure in a new git repository in your GitHub account
-2. Pick one of the game data sets depending your sports preference
+2. Pick one of the game data sets depending your sports preference    
 https://github.com/fivethirtyeight/nfl-elo-game     
 https://github.com/fivethirtyeight/data/tree/master/mlb-elo     
 https://github.com/fivethirtyeight/data/tree/master/nba-carmelo   
